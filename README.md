@@ -1,4 +1,4 @@
-# Integration2# (Files are in the file labeled: Hackerrank Java file)
+# Integration2# (Files for gradigin are in the file labeled: Hackerrank Java file)
 PSI 1
 Add your name as a comment at top of every file
 Add a description of the program as a comment at top
